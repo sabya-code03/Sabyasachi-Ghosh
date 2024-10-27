@@ -1,0 +1,1 @@
+alert('like share and subscribe and go')
