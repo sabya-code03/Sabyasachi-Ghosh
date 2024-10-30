@@ -1,3 +1,11 @@
 body{
-    background-color: purple;
+    background-color: aqua;
+}
+h1{
+    color:green;
+    background-color: burlywood;
+}
+p{
+    background-color: yellowgreen;
+    color: crimson;
 }

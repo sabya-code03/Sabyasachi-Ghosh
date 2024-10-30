@@ -1,1 +1,1 @@
-alert('good morning everyone');
+alert('welcome to my website')
