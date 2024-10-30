@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    font-style: italic;
+}
+h2{
+    color: salmon;
+    font-style: oblique;
+}
+p{
+    color: darkmagenta;
+    
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bolder;
+}
