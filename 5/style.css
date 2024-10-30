@@ -1,0 +1,23 @@
+body{
+    background-color:aliceblue;
+    color: blue;
+}
+
+h1{
+    color: steelblue;
+    font-style: italic;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+}
+
+h3{
+    color: green;
+    font-style: oblique;
+}
+
+dl{
+    color: green;
+}
